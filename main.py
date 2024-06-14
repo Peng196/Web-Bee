@@ -1,1 +1,1 @@
-print（"Hello，Web Bee!"）
+print("Hello，Web Bee!")
